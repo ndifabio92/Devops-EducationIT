@@ -1,0 +1,43 @@
+1 - Que es DevOps
+- Dev = Desarrollo y Ops = Operaciones ( despligue de software )
+- Reconoce que los dev y los ops son grupos con relacion que pueden interacturar entre si, pero no necesariamente trabajar juntos.
+- Ayuda a la organizacion a crear servicios IT y software de manera rapida, dando como resultado la reduccion del numero de iteraciones
+- Es una cultura la que ofrece una forma de reducir el riesgo mientras se continua logrando la implementacion de cambios de manera rapida
+	- Colaboracion + Procesos + Herramientas
+
+Que no es DevOps
+- No es una estrategia para todos por igual
+- No es solamente automatizacion
+- No es solo servicios cloud
+- No es una herramienta implementada
+- No es una dependencia hacia las herramientas o forma de trabajo solamente
+- No es un equipo de trabajo nuevo separado de las demas areas de IT
+
+Por que es DevOps?
+- Comunucacion tradicional entre desarrollo y operaciones
+- Development + Silos( muro ) + Operations = Explosion
+- Disfuncionalidades en: objetos, proyectos, metodos, proyectos, practicas
+
+
+2 - Evolucion de los sistemas de produccion
+- Ford y el sistema de produccion en linea Trabajadores reciben lo que van a construir
+- Toyota trabaja sin descanso para eliminar los residuos del proceso de fabricacion
+	- Espera + Funcionalidad extra + Trabajo Hecho a medias + Defectos + Movimiento + cambio de tarea + Proceso extra
+
+
+3 - Introduccion a DevOps
+- Patrick Debois ( Agile Conference ) toronto Canada 2008 y Andrew Clay Shafer ( Agile System Administration )
+- 2008
+	- Patrick Debois , Agile Conference toronto 2008. --> Presenta Cuan infra-agile sos?
+- 2008 
+	- Andrew Clay Shafer, Agile system administration. --> Experimento con las practicas agiles para integrar
+- 2009
+	- Velocity Conferene --> Allspaw y Hammond 10+ Deplys por dia en Flikr. Se;alan la necesidad de trabajar integrados y de forma transparente
+- 2010
+	- Conferencia #DevOpsDay --> fue la primera edicion del evento en el que se hace publico #DevOps
+- 2011
+	- DevOps Masificacion --> Diversos analistas de la industria IT pronostican surgimiento y adopcion a nivel global para el 2020
+- 2014
+	- Encuenta Puppet Labs --> Muestra resultados sobre la percepcion de los encuestados que se;anlan que son parte de DevOps en su organizacion
+- 2020
+	- Los 10 a;os de DevOps --> Establecido con un Midset, una cultura y un set de herramientas clave para el despliegue de software
