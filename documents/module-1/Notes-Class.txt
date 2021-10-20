@@ -1,0 +1,12 @@
+Pipeline: 
+- In computing, pipeline refers to the logical queue that is filled with all the instructions for the computer processor to process in parallel. It is the process of storing and queuing tasks and instructions that are executed simultaneously by the processor in an organized way.
+
+- test -f build/car.txt --> verifica la existencia del archivo
+    - grep "chassis" build/car.txt --> verifica la exixtencia de "chassis"
+    - grep "engine" build/car.txt
+    - grep "wheels" build/car.txt
+
+Jobs:
+- Son independientes entre ellos , a menos que se le diga lo contrario, una vez que termina se destruye
+Artifact repository --> nos permite utilizar todo lo que se dejo el primer job para que sea utilizado por el sugundo y asi.
+
