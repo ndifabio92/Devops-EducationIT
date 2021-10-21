@@ -41,3 +41,57 @@ Por que es DevOps?
 	- Encuenta Puppet Labs --> Muestra resultados sobre la percepcion de los encuestados que se;anlan que son parte de DevOps en su organizacion
 - 2020
 	- Los 10 a;os de DevOps --> Establecido con un Midset, una cultura y un set de herramientas clave para el despliegue de software
+
+
+4 - Cultura DevOps
+- Los tres ejes de la cultura ( Colaboracion, Procesos, Herramientas )
+	- DevOps es la union de personas, procesos y productos para permitir la entrega continua de valor para nuestros usuarios finales
+- El marco CALMS + R
+	- Cultura --> Establecer una cultura con responsabilidad compartida para el desarrollo, despliegue y operaciones
+	- automatizacion --> El equipo buscara formas de automatizar tantas tareas como sea posible y sentirse comodos con la idea de la entrega continua
+	- Lean --> El equipo puede visualizar el trabajo en progreso ( WIP ), mantener lotos chicos manejando su tamaño y proporcionar visibilidad extrema
+	- Measurement --> Medir constamente el flujo y la entrega proveniente del pipeline que aporta la visibilidad
+	- Sharing --> Existen canales de comunicacion faciles de usar que fomentan la comunicacion continua entre el desarrollo y las operaciones.
+	- Recovery --> Generar estrategia y capacidades para responder rapido en caso de desastres o incidencias minimizando el tiempo de recuperacion
+- Beneficions de la adopcion
+	- Mejorar la Colaboracion
+	- Acelerar proceso de integracion
+	- Mejorar la canlidad de codigo que se incorpora
+	- Genar trazabilidad y control
+	- Reducir el riesgo de la puesta en produccion
+	- Balancear estabilidad vs puesta en produccion.
+- Claves para el Exito
+	- Los equipos DevOps logran el exito por el usro comun y compartido de los dos componentes claves: La comunicacion y la visibilidad
+
+
+5 - Modelos para la gestion de proyectos ( Leer el pdf )
+
+
+6 - Concepto Bimodal de Gartner
+-	Convivencia de los modelos de desarrollo de sistemas y despliegue productivo balanceando entre los modelos tradicionales de gestion y los modelos
+	- modo 1 y modo 2
+	- confiabilidad --> objetivo --> Agilidad
+	- Precio por rendimiento --> Valor --> Ingreso, marca, experiencia del cliente
+	- Predictivo, lineal, modelo de control --> Enfoque --> Agile, Lean, Kanban, desarrollo iterativo
+	- Guiado por un plan --> Gobierno --> Guiado por el valor
+	- Proveedores de gran escala, a largo termino --> Fuentes --> Pequeños proveedores, a corto plazo
+	- Buenos para proyectos tradicionales --> Talento --> Bueno para proyectos de innovacion e incertidumbre
+	- Centrado en procesos, Cerrado al cliente --> Cultura --> Centrado en el cliente enfocado en el valor
+	- Largo ( meses/años) --> Ciclos --> Corto (dias/ semanas)
+
+
+7 - DevOps vs Agile
+	- DevOps
+		- Foco en aunar el esfuerzo de los equipos de desarrollo y operaciones en un proceso de desarrollo continuo
+		- Operaciones como area de deployment es solo una parte de operaciones. otras son monitoreo, seguridad, configuration managment, etc.
+		- Foco en el proceso de ingenieria de software end-to-end enfocado en el desarrollo y testing constamente
+		- Promueve la entrega continua en la menor intervalo de tiempo posible
+		- Busca balancear las operaciones con la estabilidad, como los scripts de implementaciones y builds de compilaciones
+	
+	- Agile
+		- Centrado en un equipo multidisciplinario donde no siempre se encuentra integado DevOps
+		- Foco en la comunicacion de un equipos cross-funcional que trabaja en iteraciones y realeses de cara al negocio con mayor preponderancia
+		- Abierto a los cambios aun en etapas tardias del desarrollo
+		- Promueve el deployment incremental tras la finalizacion de cada sprint
+		- Abarca la utilizacion de tecnicas y herramientas que van desde el Design Thinking hasta DevOps
+		- Busca Alinear desarrollo con las necesidades del negocio poniendo el foco en acelerar el proceso de desarrollo con mayor grado de interaccion entre ambos.

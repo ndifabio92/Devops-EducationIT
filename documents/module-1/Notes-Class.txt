@@ -1,5 +1,6 @@
 Pipeline: 
 - In computing, pipeline refers to the logical queue that is filled with all the instructions for the computer processor to process in parallel. It is the process of storing and queuing tasks and instructions that are executed simultaneously by the processor in an organized way.
+Serie de pasos necesarios para su finalizacion ( linea de montaje de ford ej )
 
 - test -f build/car.txt --> verifica la existencia del archivo
     - grep "chassis" build/car.txt --> verifica la exixtencia de "chassis"
@@ -10,3 +11,40 @@ Jobs:
 - Son independientes entre ellos , a menos que se le diga lo contrario, una vez que termina se destruye
 Artifact repository --> nos permite utilizar todo lo que se dejo el primer job para que sea utilizado por el sugundo y asi.
 
+Que nes NO DevOps?
+- Chef, Puppet, Jenkins, etc.
+- SOLO para start-ups.
+- Para quienes utilizan la nube.
+- Un cargo o posicion corporativa.
+- Requiere inversion economica.
+- Entrega continua de productos de baja calidad.
+- Docker o containers.
+
+Que es DevOps --> es la union de personas, procesos y productos para lograr la entrega de valor continuo para los usuarios finales. --> Donovan Brown
+
+
+Valor en el software ( entrega + valor + continuo ):
+- Nueva Funcionalidad
+- Correcion de errores
+- calidad en el servicios
+- Resilencia a imprevistos
+( flujo constante de valor entrado hacia los usuarios de nuestra app )
+
+procesos y productos --> automatizacion ( software )
+
+
+sin DevOps
+- Errores encontrados en produccion
+- deployments dolorosos
+- fragilidad en la infraestructura
+- estado de constante urgencia
+
+con DevOps
+- errores encontrados en desarrollo
+- minimo fallo en deployments
+- infraestructura automatizada
+- monitoreo y accion proactiva
+
+
+DevOps --> ayuda a la organizacion a crear servicios IT y software de manera rapida, dando como resultado la reduccion del numero de iteraciones.
+       --> Es una cultura que ofrece una forma de reducir el riesgo mientras se continua logrando la implementacion de cambios de manera rapida
