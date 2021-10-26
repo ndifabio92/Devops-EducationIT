@@ -1,0 +1,18 @@
+Docker --> nos permite trabajar con imagenes a traves de un archivo ( DockerFile ) 
+DockerFile -> Imagen -> Contenedores
+Sistema --> un sistema es un conjunto de aprtes interrelacionadas, que interactuan o son interdependientes y que forman un todo unico con un proposito especifico 
+
+7 desperdicios del desarrollo de software
+- Espera
+- Funcionalidad extra
+- Trabajo hecho a medias
+- Defectos
+- Movimientos
+- Cambio de tareas
+- Procesos extra
+
+Value Stream Mapping
+
+El VSM es lo que llamamos "Mapeo de flujo de valores"
+Nos permite visualizar de forma breve el proceso desde que se genera una necesidad hasta que la misma es entregada al cliente
+Acelerar el flujo el que nos permite una optimizacion que genere eficacia en el proceso en su conjunto
