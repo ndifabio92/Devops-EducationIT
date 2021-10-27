@@ -1,0 +1,36 @@
+- Scrum y DevOps
+- Definicion de listo y terminado
+    - Utilizada en Scrum para cada Historia que esta dentro del sprint backlog
+    - condiciones que deben cumplirse por parte del equipo creadas por el mismo
+    - deben considerar tambien
+
+    - Definition of Ready
+        - Estable estandares rigurosos para evaluar si una historia de Usuario puede entrar a un sprint
+        - Asegura que las historias de usuario cumplen con las condifciones necesarias para completarlas en un sprint
+        - Aplicar INVEST nos ayuda a focalizar que historias estan en condiciones de ser comprendidas en un sprint
+
+    - Definition of Done
+        - Define condiciones rigurosas para que una historia de usuarios sea aceptada cpmp terminada
+        - Es un artefacto clave para asegurar la calidad de las historias de usuario desarrolladas por los equipos
+
+    - Definicion de listo
+        - Tener historias de usuario definidas con suficiente claridad para que todos los miembros del equipo comprendan que es lo que debe hacerse
+        - Criterios de aceptada completamente identificacdas y detallados
+        - Historias libres de dependencias internas y externas
+        - La historia ha sido estimada y un
+
+    - Definicion de terminado\
+        - El trabajo de todos los miembros del equipo de desarrollo tiene que estar totalmente integrado en cada iteracion.
+        - El trabajo de cada miembro
+
+- CI/CD
+    - Evitamos procrastinacion en la integracion
+    - Disponibilidad constante de Release a produccion
+    - testeo continuo
+
+- Orquestacion
+    - Jenkins, go, GitLab,
+    
+- Agregando ambientes al pipeline
+- Infraestructura y operaciones
+- Herramientas mas utilizados
